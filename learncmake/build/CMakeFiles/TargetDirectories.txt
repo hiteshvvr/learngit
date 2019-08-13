@@ -1,0 +1,3 @@
+/Users/pinku/Geant4/learngit/learncmake/build/CMakeFiles/rebuild_cache.dir
+/Users/pinku/Geant4/learngit/learncmake/build/CMakeFiles/edit_cache.dir
+/Users/pinku/Geant4/learngit/learncmake/build/CMakeFiles/Learning.dir

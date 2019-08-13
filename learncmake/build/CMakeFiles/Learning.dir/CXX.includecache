@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pinku/Geant4/learngit/learncmake/try1/learn.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+tryconfig.h
+/Users/pinku/Geant4/learngit/learncmake/try1/tryconfig.h
+
+tryconfig.h
+
